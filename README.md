@@ -1,1 +1,0 @@
-# sm-wordfence-scanner
